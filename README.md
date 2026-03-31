@@ -1,4 +1,4 @@
-## Hi there 👋
+## About Me 
 
 
 -🔭 I’m currently working on SQL projects Solving  DSA problems and improving problem-solving speed
