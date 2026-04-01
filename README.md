@@ -20,4 +20,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Varunsaketh&icon=0&color=0)](https://visitcount.itsvg.in)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+
