@@ -2,9 +2,9 @@
 
 👋 I am Varun Saketh 
 
--🔭 I’m currently working on SQL projects Solving  DSA problems and improving problem-solving speed
+-🔭 I’m currently working on RAG projects ,Solving  DSA problems and improving problem-solving speed
 
-🌱 I’m currently learning Data Engineering concepts (ETL pipelines, data cleaning, SQL optimization),Machine Learning , AI agents .
+🌱 I’m currently learning about RAG concepts ,Machine Learning , AI agents .
 
 😄 He/Him
 
