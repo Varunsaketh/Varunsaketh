@@ -2,9 +2,11 @@
 
 👋 I am Varun Saketh 
 
--🔭 I’m currently working on RAG projects ,Solving  DSA problems and improving problem-solving speed
+🦖 I’m currently working on RAG projects, Solving  DSA problems and improving problem-solving speed 
 
-🌱 I’m currently learning about RAG concepts ,Machine Learning , AI agents .
+🐎 I’m currently learning about RAG concepts, Machine Learning, AI agents .
+
+🐦‍🔥 completed few projects such as buliding dashboards using PowerBI, building Data warehouse using MS SQL SERVER and few basic machine learning projects. 
 
 😄 He/Him
 
